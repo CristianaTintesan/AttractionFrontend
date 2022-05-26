@@ -1,0 +1,21 @@
+.detailCard {
+  margin: 5rem auto;
+}
+
+.detailCardRow {
+  display: flex;
+  flex-direction: row;
+}
+
+.detailCardRowBetween {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.detailCardBack {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}

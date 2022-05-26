@@ -1,0 +1,25 @@
+.CardSet {
+  margin-top: 3rem;
+  padding: 1rem;
+}
+
+.AttractionCardRow {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.AttractionCardColumn {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+
+.AttractionCardColumnSpaced {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: flex-end;
+}

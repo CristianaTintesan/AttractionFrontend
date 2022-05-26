@@ -1,0 +1,12 @@
+npm install
+npm install -S react-router-dom
+npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/material @mui/styled-engine-sc styled-components
+npm install @material-ui/icons
+npm install @mui/icons-material
+npm install react-edit-text --save
+npm install @types/react-edit-text --save-dev
+npm i axios
+npm i react-chartjs-2npm i react-datetime-picker
+npm i react-datetime-picker
+npm i sockjs react-stomp
